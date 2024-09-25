@@ -88,3 +88,6 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+permission_handler: ^8.3.0
+
+geolocator: ^8.0.5
